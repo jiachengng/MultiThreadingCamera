@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BaemBs9FGRdLPDrGf5jy4PWMvPNIHtM8Yjkx54K38KONg/ntm6so6a5WUE93rno2CjrEtp/ENfQ9iJojmiBZWg==",
+  "dgSpecHash": "9SfzpEjjxETgbLW6MMVxFsbOsIQ8qIMYz80faPTI+lUeKs2ipAMCWIDaNkjnYEaBh+nQ3eaKKZpHzWapKZDN4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jiacheng\\source\\repos\\Multi Threading Camera\\Multi Threading Camera.csproj",
+  "projectFilePath": "C:\\Users\\jiacheng\\Desktop\\Github\\MultiThreadingCamera\\MultiThreadingCamera\\Multi Threading Camera.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jiacheng\\.nuget\\packages\\emgu.cv\\4.5.3.4721\\emgu.cv.4.5.3.4721.nupkg.sha512",
     "C:\\Users\\jiacheng\\.nuget\\packages\\emgu.cv.bitmap\\4.5.3.4721\\emgu.cv.bitmap.4.5.3.4721.nupkg.sha512",

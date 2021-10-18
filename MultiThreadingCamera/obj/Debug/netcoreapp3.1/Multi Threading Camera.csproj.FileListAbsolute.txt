@@ -66,3 +66,67 @@ C:\Users\jiacheng\source\repos\Multi Threading Camera\bin\Debug\netcoreapp3.1\AF
 C:\Users\jiacheng\source\repos\Multi Threading Camera\bin\Debug\netcoreapp3.1\AForge.Video.dll
 C:\Users\jiacheng\source\repos\Multi Threading Camera\bin\Debug\netcoreapp3.1\DarrenLee.Media.dll
 C:\Users\jiacheng\source\repos\Multi Threading Camera\obj\Debug\netcoreapp3.1\Multi Threading Camera.csproj.CopyComplete
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Multi Threading Camera.exe
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Multi Threading Camera.deps.json
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Multi Threading Camera.runtimeconfig.json
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Multi Threading Camera.runtimeconfig.dev.json
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Multi Threading Camera.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Multi Threading Camera.pdb
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Emgu.CV.Platform.NetStandard.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Emgu.CV.Bitmap.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\VisioForge.Controls.UI.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\VisioForge.Controls.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\VisioForge.MediaFramework.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\VisioForge.Shared.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\VisioForge.Tools.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\VisioForge.Types.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\cvextern.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg453_64.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\cvextern.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg453.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\concrt140.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\concrt140.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.csproj.AssemblyReference.cache
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.AssemblyInfoInputs.cache
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.AssemblyInfo.cs
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.csproj.CoreCompileInputs.cache
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.csproj.CopyComplete
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.dll
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.pdb
+C:\Users\jiacheng\Desktop\Github\MultiThreadingCamera\MultiThreadingCamera\obj\Debug\netcoreapp3.1\Multi Threading Camera.genruntimeconfig.cache

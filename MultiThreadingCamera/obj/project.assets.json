@@ -2595,11 +2595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jiacheng\\source\\repos\\Multi Threading Camera\\Multi Threading Camera.csproj",
+      "projectUniqueName": "C:\\Users\\jiacheng\\Desktop\\Github\\MultiThreadingCamera\\MultiThreadingCamera\\Multi Threading Camera.csproj",
       "projectName": "Multi Threading Camera",
-      "projectPath": "C:\\Users\\jiacheng\\source\\repos\\Multi Threading Camera\\Multi Threading Camera.csproj",
+      "projectPath": "C:\\Users\\jiacheng\\Desktop\\Github\\MultiThreadingCamera\\MultiThreadingCamera\\Multi Threading Camera.csproj",
       "packagesPath": "C:\\Users\\jiacheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jiacheng\\source\\repos\\Multi Threading Camera\\obj\\",
+      "outputPath": "C:\\Users\\jiacheng\\Desktop\\Github\\MultiThreadingCamera\\MultiThreadingCamera\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2666,7 +2666,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
