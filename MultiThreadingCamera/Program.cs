@@ -21,7 +21,7 @@ namespace Multi_Threading_Camera
             Bitmap image1 = capture1.QueryFrame().ToBitmap(); //take a picture
             Console.WriteLine("Child thread 1 took a photo");
             //Saving photos into folder
-            string FileName = System.IO.Path.Combine(@"C:\Users\jiacheng\Downloads", DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
+            string FileName = System.IO.Path.Combine(@"C:\Users\Admin\Downloads\JC", DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
             image1.Save(FileName +"1" + ".jpg");
             Console.WriteLine("Child thread 1 saved an image in the folder");
         }
@@ -32,15 +32,8 @@ namespace Multi_Threading_Camera
             Console.WriteLine("Child thread 2 created camera capture");
             Bitmap image2 = capture2.QueryFrame().ToBitmap(); //take a picture
             Console.WriteLine("Child thread 2 took a photo");
-            // the thread is paused for 1500 milliseconds
-            //int sleepfor = 1500;
 
-            //Console.WriteLine("Child Thread 2 Paused for {0} seconds", sleepfor / 1000);
-            //Thread.Sleep(sleepfor);
-            //Console.WriteLine("Child thread 2 resumes");
-
-            //Saving photos into folder
-            string FileName = System.IO.Path.Combine(@"C:\Users\jiacheng\Downloads",DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
+            string FileName = System.IO.Path.Combine(@"C:\Users\Admin\Downloads\JC", DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
             image2.Save(FileName + "2" + ".jpg");
             Console.WriteLine("Child thread 2 saved an image in the folder");
         }
@@ -52,15 +45,8 @@ namespace Multi_Threading_Camera
             Console.WriteLine("Child thread 3 created camera capture");
             Bitmap image3 = capture3.QueryFrame().ToBitmap(); //take a picture
             Console.WriteLine("Child thread 3 took a photo");
-            // the thread is paused for 1500 milliseconds
-            //int sleepfor = 1000;
 
-            //Console.WriteLine("Child Thread 2 Paused for {0} seconds", sleepfor / 1000);
-            //Thread.Sleep(sleepfor);
-            //Console.WriteLine("Child thread 2 resumes");
-
-            //Saving photos into folder
-            string FileName = System.IO.Path.Combine(@"C:\Users\jiacheng\Downloads", DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
+            string FileName = System.IO.Path.Combine(@"C:\Users\Admin\Downloads\JC", DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
             image3.Save(FileName + "3" + ".jpg");
             Console.WriteLine("Child thread 3 saved an image in the folder");
         }
@@ -73,9 +59,7 @@ namespace Multi_Threading_Camera
             Bitmap image4 = capture4.QueryFrame().ToBitmap(); //take a picture
             Console.WriteLine("Child thread 4 took a photo");
 
-            //Saving photos into folder
-            //Thread.Sleep(1000);
-            string FileName = System.IO.Path.Combine(@"C:\Users\jiacheng\Downloads", DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
+            string FileName = System.IO.Path.Combine(@"C:\Users\Admin\Downloads\JC", DateTime.Now.ToString("yyy-MM-dd-hh-mm-ss"));
             image4.Save(FileName + "4" + ".jpg");
             Console.WriteLine("Child thread 4 saved an image in the folder");
         }
@@ -85,6 +69,10 @@ namespace Multi_Threading_Camera
             int start = 1;
             while (start == 1)
             {
+                //ChildThread1();
+                //ChildThread2();
+                //ChildThread3();
+                //ChildThread4();
                 System.Threading.ThreadStart childref1 = new ThreadStart(ChildThread1);
                 System.Threading.ThreadStart childref2 = new ThreadStart(ChildThread2);
                 System.Threading.ThreadStart childref3 = new ThreadStart(ChildThread3);
